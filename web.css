@@ -174,3 +174,122 @@ margin-top: 57px;
   justify-content: space-between;
   align-items: center;
 }
+/* section style */
+.sec-title{
+  width: 852px;
+  height: 37px;
+  font-family: Azeret Mono;
+  font-weight: 800;
+  font-size: 32px;
+  color: #0D1321;
+  text-align: center;
+  margin-left: 144px;
+  margin-right: 144px;
+}
+.sec-description{
+  width: 852px;
+  height: 52px;
+  font-family: Azeret Mono;
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(13, 19, 33, 1);
+  text-align: center;
+  opacity: 0.7;
+  margin-left: 144px;
+  margin-right: 144px;
+}
+video{
+  border-radius: 16px;
+  margin: 48px auto;
+}
+/* skill style */
+.skill-tle{
+  width: 852px;
+  height: 37px;
+  font-family: Azeret Mono;
+  font-weight: 800;
+  font-size: 32px;
+  color: #0D1321;
+  text-align: center;
+  margin-left: 247px;
+  margin-right: 247px;
+}
+.skill-description{
+  width: 852px;
+  height: 52px;
+  font-family: Azeret Mono;
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(13, 19, 33, 1);
+  opacity: 0.7;
+  text-align: center;
+  margin-left: 247px;
+  margin-right: 247px;
+}
+.skill-container{
+  padding: 40px;
+  border-radius: 16px;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+  display: flex;
+  gap: 24px;
+}
+.skill_1{
+width: 364px;
+height: 299px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 32;
+padding: 40px;
+border-radius: 16px;
+background: rgba(255, 76, 30, 0.05);
+}
+.skill_2{
+width: 364px;
+height: 299px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 32;
+padding: 40px;
+border-radius: 16px;
+background: rgba(0, 76, 232, 0.05);
+}
+.skill_3{
+  width: 364px;
+  height: 299px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 32;
+  padding: 40px;
+  border-radius: 16px;
+  background: rgba(255, 223, 0, 0.05);
+}
+.skill-title{
+width: 284px;
+height: 36px;
+font-family: Azeret Mono;
+font-weight: 800;
+font-size: 24px;
+}
+.skill-des{
+  width: 284px;
+  height: 52px;
+  font-family: Azeret Mono;
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(13, 19, 33, 1);
+  opacity: 0.7;
+}
+u{
+  width: 284px;
+  height: 19px;
+  font-family: Azeret Mono;
+  font-weight: 400;
+  font-size: 16px;
+  color: #0D1321;
+}
